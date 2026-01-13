@@ -73,17 +73,6 @@ y
 
  is the predicted output
 
-Visual Intuition (Conceptual Diagram)
-y
-│
-│        ●
-│     ●
-│  ●
-│●
-└────────────────── x
-      ^
-      |
-   learned line
 
 
 The algorithm adjusts the line until it best fits all data points.
